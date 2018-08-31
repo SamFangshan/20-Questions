@@ -1,4 +1,5 @@
- #include <iostream>
+//Author: Fangshan
+#include <iostream>
 #include "simpio.h"
 using namespace std;
 
